@@ -1,0 +1,6 @@
+/* 只隐藏侧边栏「所有文章」下面的月份列表 */
+.sidebar .archive-list,
+.sidebar .archive ul,
+.sidebar .widget-archive ul {
+  display: none !important;
+}

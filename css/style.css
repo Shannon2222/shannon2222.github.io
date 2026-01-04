@@ -350,6 +350,12 @@ code {
 .menu-navArchive-cont .archive-list-item a {
   color: rgba(1,1,1,0.75);
 }
+.archive-list {
+  display: none !important;
+}
+.widget-archive ul {
+  display: none !important;
+}
 .menu-navlifes-cont {
   margin-top: 16px;
 }
